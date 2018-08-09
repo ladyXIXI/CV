@@ -98,7 +98,7 @@ main: #简历主要内容，
   - title: 
     summary: 中国银行掌聚生活互联网金融平台
     duration: 2014年09月 - 2014年11月
-    detail:掌聚生活iOS客户端维护
+    detail: 掌聚生活iOS客户端维护
       md: _data/demo.md
     sub: 维护者，开发者
    
@@ -117,7 +117,7 @@ main: #简历主要内容，
     sub: 维护者，开发者
     
   - title:  妙手医生IM服务器
-    summary:妙手医生IM服务器的维护
+    summary: 妙手医生IM服务器的维护
     duration: 2016年11月 - 2017年07月
     detail:
       md: _data/demo.md
@@ -142,7 +142,7 @@ main: #简历主要内容，
      duration: 2018年07月 - 至今
      detail:
         md:
-     sub:开发者
+     sub: 开发者
    #可继续添加更多内容   
    
 
