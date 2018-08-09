@@ -31,18 +31,10 @@ main: #简历主要内容，
     duration: "2017年9月 - 2019年6月"
     sub: 硕士
     detail: 计算机技术
-  - title: Nankai University 
-    duration: Sep 2017 - Jun 2019
-    sub: Master
-    detail: Computer technology.
   - title: 中原工学院
     duration: "2009年9月 - 2013年6月"
     sub: 本科
     detail: 软件工程
-  - title: Zhongyuan University Of Technology
-    duration: Sep 2009 - Jun 2013
-    sub: Bachelor
-    detail: SoftWare.
 
 - type: skills
   # name: "技能"
