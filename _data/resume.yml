@@ -49,18 +49,18 @@ main: #简历主要内容，
   content:
   - title: 编程语言
     items: #itmems 可以小块的方式显示
-    - Objective-C
     - C/C++
+    - Objective-C
     - Swift
     - Go
     - Python
     - C#
     - Java
-  - title: Skill Group
-    summary: Consectetur, Adipiscing, Elit
+  - title: 技能
+    summary: 熟悉Git,Sql,SVN的使用，Linux的常用命令的
 
-- type: experience
-  name: 经验
+- type: Project
+  name: 项目
   content:
   - title: 职位
     sub: 某某公司
@@ -79,19 +79,77 @@ main: #简历主要内容，
     summary: Summary your job or work. (Collapse)
     detail: Details can be collapsed in Chrome Safari, Firefox, Opera and so on. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-- type: projects
-  name: Projects
+- type: Experience
+  name: 工作经验
   content:
-  - title: 项目名称
-    duration: xxxx年xx月 - yyyy年yy月
-    detail: 项目和工作介绍，项目总结.
-    sub: 维护者
-  - title: Project Name
-    summary: Projects' introduction or summary
+  - title: iOS开发工程师
+    duration: 2014年09月 - 2015年3月
+    sub: 北京联龙博通商务有限公司
+
+  - title: iOS工程师
+    duration:2015年03月 - 2017年7月
+    sub: 北京圆心科技有限公司
+   #可继续添加更多内容
+   
+   
+- type: projects
+  name: 项目 
+  content:
+  - title: 钱事儿
+    duration: 2014年11月 - 2016年1月
+    detail: 钱事儿iOS客户端
+    sub: 开发者
+
+  - title: 
+    summary: 中国银行掌聚生活互联网金融平台
+    duration: 2014年09月 - 2014年11月
+    detail:掌聚生活iOS客户端维护
+      md: _data/demo.md
+    sub: 维护者，开发者
+   
+  - title: 妙手医生
+    summary: 妙手医生iOS客户端的开发
+    duration: 2015年03月 - 2017年07月
     detail:
       md: _data/demo.md
-    sub: Creator and maintainer.
-   #可继续添加更多内容
+    sub: 维护者，开发者
+
+  - title: 妙手医生版
+    summary: 妙手医生版iOS客户端的开发
+    duration: 2015年03月 - 2017年07月
+    detail:
+      md: _data/demo.md
+    sub: 维护者，开发者
+    
+  - title:  妙手医生IM服务器
+    summary:妙手医生IM服务器的维护
+    duration: 2016年11月 - 2017年07月
+    detail:
+      md: _data/demo.md
+    sub: 维护者
+    
+  - title: 泰坦尼克号的生还问题 (Kaggle 比赛)
+    summary: Kaggle 比赛
+    duration: 2017年11月 - 2017年12月
+    detail:
+      md: _data/demo.md
+    sub: 开发参与者
+   
+  - title: 港口区块链
+    summary: 探索区块链在现实项目中的使用
+    duration: 2018年03月 - 2018年05月
+    detail:
+      md: _data/demo.md
+    sub: 开发参与者
+     
+  - title: UWB矿井测距定位
+     summary: 使用UWB的测距功能，在
+     duration: 2018年07月 - 至今
+     detail:
+        md:
+     sub:开发者
+   #可继续添加更多内容   
+   
 
 #others 其他简略内容(列表)
 others: #其他列表显示
