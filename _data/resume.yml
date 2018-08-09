@@ -138,11 +138,11 @@ main: #简历主要内容，
     sub: 开发参与者
      
   - title: UWB矿井测距定位
-     summary: 使用UWB的测距功能并测试一排定位的功能
-     duration: 2018年07月 - 至今
-     detail:
-       # md:
-     sub: 开发者
+    summary: 使用UWB的测距功能并测试一排定位的功能
+    duration: 2018年07月 - 至今
+    detail:
+      # md:
+    sub: 开发者
    #可继续添加更多内容   
    
 
