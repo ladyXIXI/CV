@@ -15,11 +15,8 @@ contact: #联系方式连接等3~5行
 - text: "18637688703"
   href: 'tel:1234567890'
   icon: 'icons/phone.svg'
-- text: "your-website.com"
-  href: 'http://your-website.com'
-  icon: 'icons/web.svg'
-- text: "GitHubID"
-  href: 'https://github.com/NewFuture'
+- text: "ladyXIXI"
+  href: 'https://github.com/ladyXIXI'
   icon: "icons/github.svg"
   attr: 'target="_blank"' #新标签页打开
   # - text: "地址"
