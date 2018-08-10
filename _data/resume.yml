@@ -145,9 +145,11 @@ main: #简历主要内容，
    #可继续添加更多内容   
    
 - type: 获奖 #ID可以为空
-  title:  ""
-  details:
-    md: _data/award.md
+  content:
+  - title:  ""
+    details：
+      md: _data/award.md
+    open: open
 
 
 #others 其他简略内容(列表)
