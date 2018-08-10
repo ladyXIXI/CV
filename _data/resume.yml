@@ -87,7 +87,7 @@ main: #简历主要内容，
     summary: 妙手医生iOS客户端的开发
     duration: 2015年03月 - 2017年07月
     detail:
-      md: _data/patient.md
+     # md: _data/patient.md
     sub: 维护者，开发者
 
   - title: 妙手医生版
