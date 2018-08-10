@@ -124,8 +124,6 @@ main: #简历主要内容，
     sub: 开发者
    #可继续添加更多内容   
    
-
-others: #其他列表显示
 - type: award #ID可以为空
   title:  "获奖情况"
   list:
