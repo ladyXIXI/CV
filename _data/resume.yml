@@ -78,6 +78,7 @@ main: #简历主要内容，
       Objective-C, AFNetworking, HTML
     detail: 
       md: _data/money.md
+    open: open
     sub: 开发者
 
   - title: 中国银行掌聚生活互联网金融平台
@@ -87,6 +88,7 @@ main: #简历主要内容，
       Objective-C, AFNetworking, HTML
     detail: 
       md: _data/bank.md
+    open: open
     sub: 维护者，开发者
    
   - title: 妙手医生
@@ -96,6 +98,7 @@ main: #简历主要内容，
       Objective-C, Swift, AFNetworking, HTML, Storyboard, SQLite3, SnapKit
     detail:
       md: _data/patient.md
+    open: open
     sub: 维护者，开发者
 
   - title: 妙手医生版
@@ -105,6 +108,7 @@ main: #简历主要内容，
       Objective-C, Swift, AFNetworking, HTML, Storyboard, SQLite3, SnapKit, CoreData
     detail:
       md: _data/doctor.md
+    open: open
     sub: 维护者，开发者
     
   - title:  妙手医生IM服务器
@@ -114,6 +118,7 @@ main: #简历主要内容，
       C, C++ , TCP/IP, MySql
     detail:
       md: _data/im.md
+    open: open
     sub: 维护者
     
   - title: 泰坦尼克号的生还问题 (Kaggle 比赛)
@@ -123,6 +128,7 @@ main: #简历主要内容，
       Matlab, Python3
     detail:
       md: _data/kaggle.md
+    open: open
     sub: 开发参与者
    
   - title: 港口区块链
@@ -132,6 +138,7 @@ main: #简历主要内容，
       Ethereum ,webjs3, soldity, Hyperledger-Fabric, Go
     detail:
       md: _data/blockchain.md
+    open: open
     sub: 开发参与者
      
   - title: UWB矿井测距定位
@@ -141,6 +148,7 @@ main: #简历主要内容，
       C#, C, C++ 
     detail:
       md: _data/uwb.md
+    open: open
     sub: 开发者
    #可继续添加更多内容   
    
