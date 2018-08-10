@@ -80,7 +80,7 @@ main: #简历主要内容，
     summary: 掌聚生活iOS客户端维护
     duration: 2014年09月 - 2014年11月
     detail: 
-    #  md: _data/demo.md
+      md: _data/bank.md
     sub: 维护者，开发者
    
   - title: 妙手医生
