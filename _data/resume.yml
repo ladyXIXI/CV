@@ -102,7 +102,7 @@ main: #简历主要内容，
     summary: 妙手医生IM服务器的维护
     duration: 2016年11月 - 2017年07月
     detail:
-      #md: _data/im.md
+      md: _data/im.md
     sub: 维护者
     
   - title: 泰坦尼克号的生还问题 (Kaggle 比赛)
