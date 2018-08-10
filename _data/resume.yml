@@ -125,28 +125,21 @@ main: #简历主要内容，
    #可继续添加更多内容   
    
 
+others: #其他列表显示
+- type: award #ID可以为空
+  title:  "获奖情况"
+  list:
+   - 中原工学院优秀奖学金二等奖(2012年)
+   - 中原工学院优秀奖学金二等奖(2011年)
+   - 中原工学院优秀奖学金三等奖(2010年)
+
 #others 其他简略内容(列表)
 others: #其他列表显示
-- type: others #ID可以为空
-  name: '其他'
+- type: other #ID可以为空
+  name: '其它'
   content: #选择需要的格式
-  - 单行文字
-  - title: "加粗:"
-    text: "列表项二"
-  - title: "兴趣:"
-    items: #单行列表
-    - 睡觉
-    - 吃饭
-    - coding
-  - title: 列表
-    list:
-    - 第一项
-    - 第二项
-#- type: 
-#  name: '其他'
-#  content: #选择需要的格式
-#  - 单行文字
-#  - 如果有可以继续添加
+  detail:
+    
 
 #footer 脚注，打印版和web版不同不显示    
 footer: #脚注多组
