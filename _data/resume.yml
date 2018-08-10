@@ -144,11 +144,12 @@ main: #简历主要内容，
     sub: 开发者
    #可继续添加更多内容   
    
-- type: 获奖 #ID可以为空
+- type: awards
+  name: '获奖情况'
   content:
-  - title:  ""
-    detail：
-      md: _data/award.md
+  - title: ""
+    detail:
+        md: _data/award.md
     open: open
 
 
