@@ -147,7 +147,7 @@ main: #简历主要内容，
 - type: 获奖 #ID可以为空
   content:
   - title:  ""
-    details：
+    detail：
       md: _data/award.md
     open: open
 
