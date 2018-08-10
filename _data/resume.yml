@@ -74,6 +74,8 @@ main: #简历主要内容，
   - title: 钱事儿
     summary: 钱事儿iOS客户端
     duration: 2014年11月 - 2014年1月
+    tags:
+      -Objective-C, AFNetworking, HTML
     detail: 
       md: _data/money.md
     sub: 开发者
@@ -81,6 +83,8 @@ main: #简历主要内容，
   - title: 中国银行掌聚生活互联网金融平台
     summary: 掌聚生活iOS客户端维护
     duration: 2014年09月 - 2014年11月
+    tags:
+      -Objective-C, AFNetworking, HTML
     detail: 
       md: _data/bank.md
     sub: 维护者，开发者
@@ -88,6 +92,8 @@ main: #简历主要内容，
   - title: 妙手医生
     summary: 妙手医生iOS客户端的开发
     duration: 2015年03月 - 2017年07月
+    tags:
+      -Objective-C, Swift, AFNetworking, HTML, Storyboard, SQLite3, SnapKit
     detail:
       md: _data/patient.md
     sub: 维护者，开发者
@@ -95,6 +101,8 @@ main: #简历主要内容，
   - title: 妙手医生版
     summary: 妙手医生版iOS客户端的开发
     duration: 2015年03月 - 2017年07月
+    tags:
+      -Objective-C, Swift, AFNetworking, HTML, Storyboard, SQLite3, SnapKit, CoreData
     detail:
       md: _data/doctor.md
     sub: 维护者，开发者
@@ -102,6 +110,8 @@ main: #简历主要内容，
   - title:  妙手医生IM服务器
     summary: 妙手医生IM服务器的维护
     duration: 2016年11月 - 2017年07月
+    tags:
+      -C, C++ , TCP/IP, MySql
     detail:
       md: _data/im.md
     sub: 维护者
@@ -109,6 +119,8 @@ main: #简历主要内容，
   - title: 泰坦尼克号的生还问题 (Kaggle 比赛)
     summary: Kaggle 比赛
     duration: 2017年11月 - 2017年12月
+    tags:
+      -Matlab, Python3
     detail:
       md: _data/kaggle.md
     sub: 开发参与者
@@ -116,6 +128,8 @@ main: #简历主要内容，
   - title: 港口区块链
     summary: 探索区块链在现实项目中的使用
     duration: 2018年03月 - 2018年05月
+    tags:
+      -Ethereum ,webjs3, soldity, Hyperledger-Fabric, Go
     detail:
       md: _data/blockchain.md
     sub: 开发参与者
@@ -123,6 +137,8 @@ main: #简历主要内容，
   - title: UWB矿井测距定位
     summary: 使用UWB的测距功去定位功能
     duration: 2018年07月 - 至今
+    tags:
+      -C#, C, C++ 
     detail:
       md: _data/uwb.md
     sub: 开发者
