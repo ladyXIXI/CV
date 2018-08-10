@@ -75,7 +75,7 @@ main: #简历主要内容，
     summary: 钱事儿iOS客户端
     duration: 2014年11月 - 2014年1月
     tags:
-      -Objective-C, AFNetworking, HTML
+      Objective-C, AFNetworking, HTML
     detail: 
       md: _data/money.md
     sub: 开发者
@@ -84,7 +84,7 @@ main: #简历主要内容，
     summary: 掌聚生活iOS客户端维护
     duration: 2014年09月 - 2014年11月
     tags:
-      -Objective-C, AFNetworking, HTML
+      Objective-C, AFNetworking, HTML
     detail: 
       md: _data/bank.md
     sub: 维护者，开发者
@@ -93,7 +93,7 @@ main: #简历主要内容，
     summary: 妙手医生iOS客户端的开发
     duration: 2015年03月 - 2017年07月
     tags:
-      -Objective-C, Swift, AFNetworking, HTML, Storyboard, SQLite3, SnapKit
+      Objective-C, Swift, AFNetworking, HTML, Storyboard, SQLite3, SnapKit
     detail:
       md: _data/patient.md
     sub: 维护者，开发者
@@ -102,7 +102,7 @@ main: #简历主要内容，
     summary: 妙手医生版iOS客户端的开发
     duration: 2015年03月 - 2017年07月
     tags:
-      -Objective-C, Swift, AFNetworking, HTML, Storyboard, SQLite3, SnapKit, CoreData
+      Objective-C, Swift, AFNetworking, HTML, Storyboard, SQLite3, SnapKit, CoreData
     detail:
       md: _data/doctor.md
     sub: 维护者，开发者
@@ -111,7 +111,7 @@ main: #简历主要内容，
     summary: 妙手医生IM服务器的维护
     duration: 2016年11月 - 2017年07月
     tags:
-      -C, C++ , TCP/IP, MySql
+      C, C++ , TCP/IP, MySql
     detail:
       md: _data/im.md
     sub: 维护者
@@ -120,7 +120,7 @@ main: #简历主要内容，
     summary: Kaggle 比赛
     duration: 2017年11月 - 2017年12月
     tags:
-      -Matlab, Python3
+      Matlab, Python3
     detail:
       md: _data/kaggle.md
     sub: 开发参与者
@@ -129,7 +129,7 @@ main: #简历主要内容，
     summary: 探索区块链在现实项目中的使用
     duration: 2018年03月 - 2018年05月
     tags:
-      -Ethereum ,webjs3, soldity, Hyperledger-Fabric, Go
+      Ethereum ,webjs3, soldity, Hyperledger-Fabric, Go
     detail:
       md: _data/blockchain.md
     sub: 开发参与者
@@ -138,25 +138,27 @@ main: #简历主要内容，
     summary: 使用UWB的测距功去定位功能
     duration: 2018年07月 - 至今
     tags:
-      -C#, C, C++ 
+      C#, C, C++ 
     detail:
       md: _data/uwb.md
     sub: 开发者
    #可继续添加更多内容   
    
 - type: 获奖 #ID可以为空
-  title:  "获奖情况"
-  list:
-   - 中原工学院优秀奖学金二等奖(2012年)
-   - 中原工学院优秀奖学金二等奖(2011年)
-   - 中原工学院优秀奖学金三等奖(2010年)
+  title:  ""
+  details:
+    md: _data/award.md
+
 
 #others 其他简略内容(列表)
 others: #其他列表显示
 - type: other #ID可以为空
   name: '其它'
   content: #选择需要的格式
-  detail:
+  - 熟练阅读英文文档
+  - 参与翻译英文书籍《Computer Science》
+  
+
     
 
 #footer 脚注，打印版和web版不同不显示    
