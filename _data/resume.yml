@@ -109,21 +109,21 @@ main: #简历主要内容，
     summary: Kaggle 比赛
     duration: 2017年11月 - 2017年12月
     detail:
-      #md: _data/kaggle.md
+      md: _data/kaggle.md
     sub: 开发参与者
    
   - title: 港口区块链
     summary: 探索区块链在现实项目中的使用
     duration: 2018年03月 - 2018年05月
     detail:
-      #md: _data/blockchain.md
+      md: _data/blockchain.md
     sub: 开发参与者
      
   - title: UWB矿井测距定位
     summary: 使用UWB的测距功去定位功能
     duration: 2018年07月 - 至今
     detail:
-      #md: _data/uwb.md
+      md: _data/uwb.md
     sub: 开发者
    #可继续添加更多内容   
    
