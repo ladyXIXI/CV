@@ -70,14 +70,16 @@ main: #简历主要内容，
   name: 项目 
   content:
   - title: 钱事儿
-    duration: 2014年11月 - 2016年1月
-    detail: 钱事儿iOS客户端
+    summary: 钱事儿iOS客户端
+    duration: 2014年11月 - 2014年1月
+    detail: 
+      md:_data/money.md
     sub: 开发者
 
-  - title: 
-    summary: 中国银行掌聚生活互联网金融平台
+  - title: 中国银行掌聚生活互联网金融平台
+    summary: 掌聚生活iOS客户端维护
     duration: 2014年09月 - 2014年11月
-    detail: 掌聚生活iOS客户端维护
+    detail: 
     #  md: _data/demo.md
     sub: 维护者，开发者
    
