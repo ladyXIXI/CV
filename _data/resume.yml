@@ -87,42 +87,42 @@ main: #简历主要内容，
     summary: 妙手医生iOS客户端的开发
     duration: 2015年03月 - 2017年07月
     detail:
-     # md: _data/demo.md
+      md: _data/patient.md
     sub: 维护者，开发者
 
   - title: 妙手医生版
     summary: 妙手医生版iOS客户端的开发
     duration: 2015年03月 - 2017年07月
     detail:
-      #md: _data/demo.md
+      md: _data/doctor.md
     sub: 维护者，开发者
     
   - title:  妙手医生IM服务器
     summary: 妙手医生IM服务器的维护
     duration: 2016年11月 - 2017年07月
     detail:
-   #   md: _data/demo.md
+      md: _data/im.md
     sub: 维护者
     
   - title: 泰坦尼克号的生还问题 (Kaggle 比赛)
     summary: Kaggle 比赛
     duration: 2017年11月 - 2017年12月
     detail:
-      #md: _data/demo.md
+      md: _data/kaggle.md
     sub: 开发参与者
    
   - title: 港口区块链
     summary: 探索区块链在现实项目中的使用
     duration: 2018年03月 - 2018年05月
     detail:
-      #md: _data/demo.md
+      md: _data/blockchain.md
     sub: 开发参与者
      
   - title: UWB矿井测距定位
-    summary: 使用UWB的测距功能并测试一排定位的功能
+    summary: 使用UWB的测距功去定位功能
     duration: 2018年07月 - 至今
     detail:
-      # md:
+      md: _data/uwb.md
     sub: 开发者
    #可继续添加更多内容   
    
