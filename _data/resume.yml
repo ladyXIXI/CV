@@ -73,7 +73,7 @@ main: #简历主要内容，
     summary: 钱事儿iOS客户端
     duration: 2014年11月 - 2014年1月
     detail: 
-      md:_data/money.md
+      md: _data/money.md
     sub: 开发者
 
   - title: 中国银行掌聚生活互联网金融平台
