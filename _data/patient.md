@@ -1,5 +1,12 @@
 - 登陆注册
 - 宝宝疫苗
+  - UICollectionView + NSDate 封装日期界面
+  - UITableView的封装 + UITapGestureRecognizer+ UIControl 适配不同的区域的相应事件
 - 医生主页
+  - Jastor模型封装数据 
+  - 根据模型数据封装界面布局模型封装主页
 - 我和妙手圈
+  - 布局模型类计算出不同空间的拜访位置以及cell的高度
+  - WebView的封装与前端的界面的交互
 - web端和原生的互调
+  - JavaScriptCore 框架解析前端的JS事件
